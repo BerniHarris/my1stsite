@@ -1,0 +1,21 @@
+h1 {
+  color: indianred;
+}
+
+h2 {
+  color: indigo;
+}
+
+ul {
+  color: mediumslateblue;
+  align-items: center;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}

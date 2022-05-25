@@ -1,6 +1,6 @@
 # [my 1st site](https://bh1.netlify.app/)
 
-Hello and thnks for looking at my first site! 
+Hello and thanks for looking at my first site! 
 
 It's terrible... but the content is cute :)
 
